@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="13px" viewBox="0 0 73 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>WP News</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Poppins-Regular, Poppins" font-size="16" font-weight="normal">
+        <g id="WPSettings" transform="translate(-139.000000, -37.000000)" fill="#007AFF">
+            <text id="WP-News">
+                <tspan x="139" y="49">WP</tspan>
+                <tspan x="163.72" y="49" font-family="Poppins-SemiBold, Poppins" font-weight="500"> </tspan>
+                <tspan x="167.208" y="49" font-family="Poppins-Bold, Poppins" font-weight="bold">News</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

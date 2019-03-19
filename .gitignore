@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+CC-WPNews\.zip\(25-05-2018\)\.zip
+
+app/src/main/AndroidManifest\.xml
+
+app/src/main/

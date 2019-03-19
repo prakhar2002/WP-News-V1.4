@@ -1,0 +1,12 @@
+
+1st Release
+-----------
+  applicationId "com.itechnotion.wpnews"
+        versionCode 1
+        versionName "1.0"
+
+  Certificate Name : wpnews.jks
+  password : 123456
+  Alias : wpnews
+
+       
